@@ -6,7 +6,8 @@ h1{
 
 }
 .deep{
-    color: orange;
+    color:orange;
+
 }
 section{
     display: flex;
@@ -17,7 +18,7 @@ section{
     padding: 10px 45px;
     border-radius: 5px;
     color: white;
-    font-weight: 800;
+    font-weight: 900;
 }
 .new-file{
     text-decoration: none;
@@ -40,5 +41,8 @@ section{
         color: orange;
     }
     .new-class img{
+        width: 100%;
+    }
+    .nanu img{
         width: 100%;
     }
